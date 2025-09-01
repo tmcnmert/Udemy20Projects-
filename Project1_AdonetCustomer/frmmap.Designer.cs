@@ -74,6 +74,7 @@
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "frmmap";
             this.Text = "Formlar";
+            this.Load += new System.EventHandler(this.frmmap_Load);
             this.ResumeLayout(false);
 
         }

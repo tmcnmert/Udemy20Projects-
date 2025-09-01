@@ -28,5 +28,10 @@ namespace Project1_AdonetCustomer
             frmcustomer frmcustomer= new frmcustomer();
             frmcustomer.Show();
         }
+
+        private void frmmap_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project9_MongoDbOrder", "Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project1_AdonetCustomer", "Project1_AdonetCustomer\Project1_AdonetCustomer.csproj", "{A343ECC1-C5A9-4EBA-B388-DC89787A3B21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project2_EntityFrameworkDbFirstProduct", "Project2_EntityFrameworkDbFirstProduct\Project2_EntityFrameworkDbFirstProduct.csproj", "{02B4D9DF-03D1-4508-9522-8F364489CA83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A343ECC1-C5A9-4EBA-B388-DC89787A3B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A343ECC1-C5A9-4EBA-B388-DC89787A3B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A343ECC1-C5A9-4EBA-B388-DC89787A3B21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B4D9DF-03D1-4508-9522-8F364489CA83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B4D9DF-03D1-4508-9522-8F364489CA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B4D9DF-03D1-4508-9522-8F364489CA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B4D9DF-03D1-4508-9522-8F364489CA83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
